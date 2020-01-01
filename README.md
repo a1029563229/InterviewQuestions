@@ -2,7 +2,8 @@
 
 ## 算法
 
-- [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic)
+- [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/1)
+- [使用迭代的方式实现 flatten 函数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/2)
 
 ## 网络相关
 
@@ -11,6 +12,7 @@
 ## Web 前端
 
 - [如何实现函数的柯里化？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/1)
+- [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/2)
 
 ## 函数执行结果
 
