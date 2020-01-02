@@ -17,3 +17,7 @@
 ## 函数执行结果
 
 - [第一题](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/1)
+
+## 消息队列
+
+- [消息队列的应用场景有哪些？](https://github.com/a1029563229/InterviewQuestions/blob/master/msgQ/1)
