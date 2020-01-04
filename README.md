@@ -13,6 +13,7 @@
 
 - [如何实现函数的柯里化？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/1)
 - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/2)
+- [写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/3)
 
 ## 函数执行结果
 
