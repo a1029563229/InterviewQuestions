@@ -1,6 +1,6 @@
 # 第一题
 
-请给出如下代码的打印结果：
+请给出如下代码的打印结果（答案在最下面）：
 
 ```js
 function changeObjProperty(o) {
@@ -10,5 +10,26 @@ function changeObjProperty(o) {
 } 
 let webSite = new Object();
 changeObjProperty(webSite);
-console.log(webSite.siteUrl); // "http://www.baidu.com"
+console.log(webSite.siteUrl); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// "http://www.baidu.com"
 ```

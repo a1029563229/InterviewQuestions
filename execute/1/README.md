@@ -17,8 +17,10 @@ Foo.prototype.a = function() {
 Foo.a = function() {
     console.log(4)
 }
-Foo.a(); // 4
+Foo.a();
 let obj = new Foo(); 
-obj.a(); // 2
-Foo.a(); // 1
+obj.a();
+Foo.a();
 ```
+
+打印结果： 4 2 1
