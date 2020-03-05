@@ -4,6 +4,8 @@
 
 - [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/1)
 - [使用迭代的方式实现 flatten 函数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/2)
+- [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/3)
+- [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/4)
 
 ## 网络相关
 
@@ -13,7 +15,10 @@
 
 - [如何实现函数的柯里化？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/1)
 - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/2)
-- [写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/3)
+- [（滴滴、饿了么）写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/3)
+- [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/a1029563229/InterviewQuestions/blob/master/front/4)
+- [（挖财）什么是防抖和节流？有什么区别？如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/5)
+- [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/a1029563229/InterviewQuestions/blob/master/front/6)
 
 ## 函数执行结果
 
