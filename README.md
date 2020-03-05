@@ -7,6 +7,9 @@
 - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/3)
 - [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/4)
 - [（携程）编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/5)
+- [给定两个数组，写一个方法来计算它们的交集](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/6)
+- [数组编程题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/7)
+- [如何把一个字符串的大小写取反（大写变小写小写变大写），例如 ’AbC' 变成 'aBc' 。](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/8)
 
 ## 网络相关
 
@@ -14,6 +17,7 @@
 - [（网易）简单讲解一下http2的多路复用](https://github.com/a1029563229/InterviewQuestions/blob/master/network/2)
 - [介绍 HTTPS 握手过程](https://github.com/a1029563229/InterviewQuestions/blob/master/network/3)
 - [HTTPS 握手过程中，客户端如何验证证书的合法性](https://github.com/a1029563229/InterviewQuestions/blob/master/network/4)
+- [介绍下如何实现 token 加密](https://github.com/a1029563229/InterviewQuestions/blob/master/network/5)
 
 ## CSS
 
@@ -49,6 +53,8 @@
 - [操作题（考察数组基础）](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/24)
 - [操作题（考察消息队列）](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/25)
 - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/26)
+- [redux 为什么要把 reducer 设计成纯函数](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/27)
+- [ES6 代码转成 ES5 代码的实现思路是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/28)
 
 
 ## 函数执行结果
