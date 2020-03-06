@@ -3,19 +3,13 @@
 ## 浏览器
 
 - 宏任务：script 中的代码、setTimeout、setInterval、I/O、UI render；
-- 微任务：promise、Object.observe、MutationObserver；
+- 微任务：promise（async/await）、Object.observe、MutationObserver；
 
 
 ## Node
 
-- microTask：微任务；
-- nextTick：process.nextTick；
-- timers：各类定时器；
-- I/O callback：是否有已完成的 I/O 操作的回调函数；
-- idle，prepare：仅在内部使用；
-- poll：等待新的 I/O 事件；
-- check：等待 setImmediate 的回调；
-- close callback：关闭所有的 closing handles；
+- 宏任务：setTimeout、setInterval、setImmediate、script（整体代码）、I/O 操作等；
+- 微任务：process.nextTick（与普通微任务有区别，在微任务队列执行之前执行）、new Promise().then(回调) 等
 
 
 ## 区别

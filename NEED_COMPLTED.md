@@ -2,6 +2,7 @@
 
 - 综合
   - 大厂面试题
+  - 设计模式
 
 1. 算法题
   1. 广度优先拷贝、深拷贝
@@ -14,7 +15,7 @@
   4. 手写 apply、call、bind
 
 3. 源码实现
-  1. Promise
+  1. Promise、Promise.all、Promise.race
   2. Redux
   3. Redux-thunk
   4. React

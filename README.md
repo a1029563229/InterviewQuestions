@@ -29,6 +29,16 @@
 - [从输入URL到页面加载的全过程](https://github.com/a1029563229/InterviewQuestions/blob/master/network/8)
 - [简述 HTTP2.0 与 HTTP1.1 相较于之前版本的改进](https://github.com/a1029563229/InterviewQuestions/blob/master/network/9)
 
+## HTML
+
+- [页面导入样式时，使用 link 和 @import 有什么区别。](https://github.com/a1029563229/InterviewQuestions/blob/master/html/1)
+- [常见浏览器内核](https://github.com/a1029563229/InterviewQuestions/blob/master/html/2)
+- [简述浏览器的渲染原理](https://github.com/a1029563229/InterviewQuestions/blob/master/html/3)
+- [HTML5 的 form 的自动完成功能是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/html/4)
+- [如何实现浏览器内多个标签页之间的通信？](https://github.com/a1029563229/InterviewQuestions/blob/master/html/5)
+- [简述前端性能优化](https://github.com/a1029563229/InterviewQuestions/blob/master/html/6)
+
+
 ## CSS
 
 - [介绍下 BFC 及其应用](https://github.com/a1029563229/InterviewQuestions/blob/master/css/1)
@@ -38,7 +48,8 @@
 - [简述 Rem 及其转换原理](https://github.com/a1029563229/InterviewQuestions/blob/master/css/5)
 - [移动端视口配置](https://github.com/a1029563229/InterviewQuestions/blob/master/css/6)
 - [简述伪类和伪元素](https://github.com/a1029563229/InterviewQuestions/blob/master/css/7)
-- [行内元素的margin 和 padding](https://github.com/a1029563229/InterviewQuestions/blob/master/css/8)
+- [行内元素的 margin 和 padding](https://github.com/a1029563229/InterviewQuestions/blob/master/css/8)
+- [CSS 中哪些属性可以继承？](https://github.com/a1029563229/InterviewQuestions/blob/master/css/9)
 
 ## Javascript
 
