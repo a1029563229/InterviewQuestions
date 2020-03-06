@@ -1,17 +1,39 @@
 # 遗漏题目
 
-1. 广度优先拷贝、深拷贝
+- 综合
+  - 大厂面试题
 
-2. 源码实现（如 Promise 之类的 都要背下来，脑子里有个印象）
+1. 算法题
+  1. 广度优先拷贝、深拷贝
+  2. 恶补算法题
 
-3. 使用 Proxy 实现 axios
+2. 基础操作题
+  1. 使用 Proxy 实现 axios
+  2. 函数柯里化
+  3. 模拟 new 的实现
+  4. 手写 apply、call、bind
 
-4. 恶补算法题
+3. 源码实现
+  1. Promise
+  2. Redux
+  3. Redux-thunk
+  4. React
+  5. 实现 useState 和 useEffect
 
-5. Promise、Promise.all
+4. 其他面试题
+  1. Node
+  2. 正则
+  3. Mysql
+  4. Mongodb
+  5. Go
 
-6. 函数柯里化
+5. 画图加深理解
+  1. MVC、MVP、MVVM
+  2. TCP 三次握手 + 四次挥手
+  3. TCP 滑动窗口
+  4. Redux 数据流动
+  5. HTTPS
 
-7. Node 面试题、Mysql 面试题、Mongodb 面试题、Go 面试题
-
-8. 正则题
+6. 概念补充
+  1. TCP 滑动窗口
+  2. CSRF 攻击

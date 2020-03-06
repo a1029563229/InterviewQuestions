@@ -25,12 +25,20 @@
 - [HTTPS 握手过程中，客户端如何验证证书的合法性](https://github.com/a1029563229/InterviewQuestions/blob/master/network/4)
 - [介绍下如何实现 token 加密](https://github.com/a1029563229/InterviewQuestions/blob/master/network/5)
 - [介绍下 HTTPS 中间人攻击](https://github.com/a1029563229/InterviewQuestions/blob/master/network/6)
+- [说出几个你知道的 HTTP 状态码及其功能](https://github.com/a1029563229/InterviewQuestions/blob/master/network/7)
+- [从输入URL到页面加载的全过程](https://github.com/a1029563229/InterviewQuestions/blob/master/network/8)
+- [简述 HTTP2.0 与 HTTP1.1 相较于之前版本的改进](https://github.com/a1029563229/InterviewQuestions/blob/master/network/9)
 
 ## CSS
 
 - [介绍下 BFC 及其应用](https://github.com/a1029563229/InterviewQuestions/blob/master/css/1)
 - [怎么让一个 div 水平垂直居中](https://github.com/a1029563229/InterviewQuestions/blob/master/css/2)
 - [分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/a1029563229/InterviewQuestions/blob/master/css/3)
+- [简述 CSS 盒模型](https://github.com/a1029563229/InterviewQuestions/blob/master/css/4)
+- [简述 Rem 及其转换原理](https://github.com/a1029563229/InterviewQuestions/blob/master/css/5)
+- [移动端视口配置](https://github.com/a1029563229/InterviewQuestions/blob/master/css/6)
+- [简述伪类和伪元素](https://github.com/a1029563229/InterviewQuestions/blob/master/css/7)
+- [行内元素的margin 和 padding](https://github.com/a1029563229/InterviewQuestions/blob/master/css/8)
 
 ## Javascript
 
@@ -66,6 +74,14 @@
 - [Vue 的父组件和子组件生命周期钩子执行顺序是什么](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/30)
 - [react-router 里的 <Link> 标签和 <a> 标签有什么区别](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/31)
 - [vue 在 v-for 时给每项元素绑定事件需要用事件代理吗？为什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/32)
+- [谈谈对 MVC、MVP、MVVM 模式的理解](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/33)
+- [简单说说 js 中有哪几种内存泄露的情况](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/34)
+- [跨域问题如何解决](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/35)
+- [instanceof 的实现原理](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/36)
+- [react 组件的生命周期](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/37)
+- [简述 Flux 思想](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/38)
+- [简述执行上下文和执行栈](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/39)
+- [简述浏览器与 Node 的事件循环](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/40)
 
 
 
