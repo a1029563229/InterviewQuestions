@@ -10,6 +10,12 @@
 - [给定两个数组，写一个方法来计算它们的交集](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/6)
 - [数组编程题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/7)
 - [如何把一个字符串的大小写取反（大写变小写小写变大写），例如 ’AbC' 变成 'aBc' 。](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/8)
+- [实现一个字符串匹配算法，从长度为 n 的字符串 S 中，查找是否存在字符串 T，T 的长度是 m，若存在返回所在位置。](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/9)
+- [算法题「旋转数组」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/10)
+- [打印出 1 - 10000 之间的所有对称数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/11)
+- [周一算法题之「移动零」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/12)
+- [（京东、快手）周一算法题之「两数之和」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/13)
+- [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/14)
 
 ## 网络相关
 
@@ -18,6 +24,7 @@
 - [介绍 HTTPS 握手过程](https://github.com/a1029563229/InterviewQuestions/blob/master/network/3)
 - [HTTPS 握手过程中，客户端如何验证证书的合法性](https://github.com/a1029563229/InterviewQuestions/blob/master/network/4)
 - [介绍下如何实现 token 加密](https://github.com/a1029563229/InterviewQuestions/blob/master/network/5)
+- [介绍下 HTTPS 中间人攻击](https://github.com/a1029563229/InterviewQuestions/blob/master/network/6)
 
 ## CSS
 
@@ -55,6 +62,11 @@
 - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/26)
 - [redux 为什么要把 reducer 设计成纯函数](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/27)
 - [ES6 代码转成 ES5 代码的实现思路是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/28)
+- [介绍下 webpack 热更新原理，是如何做到在不刷新浏览器的前提下更新页面的](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/29)
+- [Vue 的父组件和子组件生命周期钩子执行顺序是什么](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/30)
+- [react-router 里的 <Link> 标签和 <a> 标签有什么区别](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/31)
+- [vue 在 v-for 时给每项元素绑定事件需要用事件代理吗？为什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/32)
+
 
 
 ## 函数执行结果
@@ -66,7 +78,8 @@
 - [第五题（考察作用域](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/5)
 - [第六题（考察作用域](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/6)
 - [第七题（考察数组）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/7)
-- [第七题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/8)
+- [第八题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/8)
+- [第九题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/9)
 
 ## 消息队列
 
