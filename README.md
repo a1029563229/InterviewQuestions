@@ -28,6 +28,8 @@
 - [说出几个你知道的 HTTP 状态码及其功能](https://github.com/a1029563229/InterviewQuestions/blob/master/network/7)
 - [从输入URL到页面加载的全过程](https://github.com/a1029563229/InterviewQuestions/blob/master/network/8)
 - [简述 HTTP2.0 与 HTTP1.1 相较于之前版本的改进](https://github.com/a1029563229/InterviewQuestions/blob/master/network/9)
+- [SSL 连接断开后如何恢复？](https://github.com/a1029563229/InterviewQuestions/blob/master/network/10)
+- [什么是 CDN 服务？](https://github.com/a1029563229/InterviewQuestions/blob/master/network/11)
 
 ## HTML
 
@@ -96,6 +98,12 @@
 - [简述 Flux 思想](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/38)
 - [简述执行上下文和执行栈](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/39)
 - [简述浏览器与 Node 的事件循环](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/40)
+- [什么是 CSP？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/41)
+- [什么是 CSRF 攻击？如何防范 CSRF 攻击？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/42)
+- [谈一谈你理解的函数式编程？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/43)
+- [什么是尾调用，使用尾调用有什么好处？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/44)
+- [Vue 组件间如何通信？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/45)
+- [Vue 中 computed 和 watch 的差异？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/46)
 
 
 
