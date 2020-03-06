@@ -50,6 +50,9 @@
 - [简述伪类和伪元素](https://github.com/a1029563229/InterviewQuestions/blob/master/css/7)
 - [行内元素的 margin 和 padding](https://github.com/a1029563229/InterviewQuestions/blob/master/css/8)
 - [CSS 中哪些属性可以继承？](https://github.com/a1029563229/InterviewQuestions/blob/master/css/9)
+- [CSS3 新增伪类有那些？（例如 nth-child）](https://github.com/a1029563229/InterviewQuestions/blob/master/css/10)
+- [用纯 CSS 创建一个三角形](https://github.com/a1029563229/InterviewQuestions/blob/master/css/11)
+- [min-width/max-width 和 min-height/max-height 属性间的覆盖规则？](https://github.com/a1029563229/InterviewQuestions/blob/master/css/12)
 
 ## Javascript
 
