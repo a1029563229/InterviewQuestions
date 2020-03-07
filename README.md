@@ -118,6 +118,13 @@
 - [第八题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/8)
 - [第九题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/9)
 
+### 设计模式
+
+- [什么是设计模式？设计模式如何解决复杂问题？](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/1)
+- [什么是白箱复用和黑箱复用？](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/3)
+- [简述面向对象的设计原则](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/2)
+- [简述你了解的设计模式及应用场景](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/4)
+
 ### 消息队列
 
 - [消息队列的应用场景有哪些？](https://github.com/a1029563229/InterviewQuestions/blob/master/msgQ/1)
