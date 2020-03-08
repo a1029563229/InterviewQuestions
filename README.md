@@ -121,6 +121,7 @@
 - [简单聊聊 new Vue 以后发生的事情](https://github.com/a1029563229/InterviewQuestions/blob/master/source/8)
 - [介绍下 webpack 热更新原理，是如何做到在不刷新浏览器的前提下更新页面的](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/29)
 - [简述一下 React 的源码实现](https://github.com/a1029563229/InterviewQuestions/blob/master/source/9)
+- [实现 React Hooks 中的 useState 和 useEffect](https://github.com/a1029563229/InterviewQuestions/blob/master/source/10)
 
 ### 正则
 
@@ -130,6 +131,14 @@
 
 - [介绍一下 Node 里的模块是什么?](https://github.com/a1029563229/InterviewQuestions/blob/master/node/1)
 - [请介绍一下 require 的模块加载机制](https://github.com/a1029563229/InterviewQuestions/blob/master/node/2)
+- [请介绍一下 Node 中的内存泄露问题和解决方案](https://github.com/a1029563229/InterviewQuestions/blob/master/node/3)
+- [在 Node 中两个模块互相引用会发生什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/4)
+- [Node 如何实现热更新？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/5)
+- [为什么 Node.js 不给每一个.js文件以独立的上下文来避免作用域被污染?](https://github.com/a1029563229/InterviewQuestions/blob/master/node/6)
+- [Node 更适合处理 I/O 密集型任务还是 CPU 密集型任务？为什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/7)
+- [聊一聊 Node 的垃圾回收机制](https://github.com/a1029563229/InterviewQuestions/blob/master/node/8)
+- [简单聊聊 Node 的异步 I/O](https://github.com/a1029563229/InterviewQuestions/blob/master/node/9)
+- [Node 如何创建子进程？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/10)
 
 
 ### 函数执行结果
@@ -154,6 +163,11 @@
 ### 消息队列
 
 - [消息队列的应用场景有哪些？](https://github.com/a1029563229/InterviewQuestions/blob/master/msgQ/1)
+
+### 未解答问题
+
+- [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/4)
+- [实现 React Hooks 中的 useState 和 useEffect](https://github.com/a1029563229/InterviewQuestions/blob/master/source/10)
 
 ## 大厂面试题（前端）
 
@@ -191,3 +205,4 @@
 - [（阿里巴巴）简述执行上下文和执行栈](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/39)
 - [（阿里巴巴）简述懒加载](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/7)
 - [（腾讯）webpack 中 loader 和 plugin 的区别是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/8)
+
