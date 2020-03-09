@@ -145,6 +145,7 @@
 - [简单介绍一下 IPC](https://github.com/a1029563229/InterviewQuestions/blob/master/node/14)
 - [什么是守护进程？Node 如何实现守护进程？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/15)
 - [简单介绍一下 Buffer](https://github.com/a1029563229/InterviewQuestions/blob/master/node/16)
+- [简单介绍一下 Stream](https://github.com/a1029563229/InterviewQuestions/blob/master/node/17)
 
 
 ### 函数执行结果
