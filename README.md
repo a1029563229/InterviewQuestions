@@ -139,6 +139,12 @@
 - [聊一聊 Node 的垃圾回收机制](https://github.com/a1029563229/InterviewQuestions/blob/master/node/8)
 - [简单聊聊 Node 的异步 I/O](https://github.com/a1029563229/InterviewQuestions/blob/master/node/9)
 - [Node 如何创建子进程？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/10)
+- [进程当前的工作目录是什么？有什么作用？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/11)
+- [console.log 是同步还是异步? 如何实现一个 console.log？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/12)
+- [父进程或子进程的死亡是否会影响对方? 什么是孤儿进程?](https://github.com/a1029563229/InterviewQuestions/blob/master/node/13)
+- [简单介绍一下 IPC](https://github.com/a1029563229/InterviewQuestions/blob/master/node/14)
+- [什么是守护进程？Node 如何实现守护进程？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/15)
+- [简单介绍一下 Buffer](https://github.com/a1029563229/InterviewQuestions/blob/master/node/16)
 
 
 ### 函数执行结果

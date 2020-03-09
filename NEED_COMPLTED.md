@@ -5,6 +5,7 @@
   * 设计模式
   - 收集以前学习的资料整理出优质题目
   - 混合 APP 开发
+  - 争取两天产出一篇前端相关的博客文章，丰富自己博客的前端内容
 
 2. 算法题
   - 广度优先拷贝、深拷贝
@@ -23,6 +24,7 @@
   * Vue（从 new Vue 开始的流程）
   * React
   - 实现 useState 和 useEffect
+  - 优化 Promise、去掉 setTimeout、在 then 检查状态是否为 resolved
 
 5. 其他面试题
   - Node
