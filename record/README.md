@@ -7,9 +7,11 @@
   2. 难度一般，频率高；
   3. 比较冷门，能掌握最好；
 
+我面试的公司不多，但是问到的一些技术问题大多数都包含在这些题目中，对我个人求职帮助还是很大的。
+
 ## 原文地址
 
-首先这些面试题都是在各处搜集来的，所以先贴出原文地址，建议去原文刷题效果更好，原文的讲解和题型都是最全面的，我在这里只是做一个整理而已，有充裕时间的话建议刷原文。
+首先这些面试题都是在各处搜集来的，所以先贴出原文地址，原文的讲解和题型都是最全面的，我在这里只是做一个整理提炼而已，有充裕时间的话，强烈建议刷原文。
 
 > 如果原作者【大佬】看到不允许转载的内容，请私聊我一下，我这边删除相关内容，非常抱歉。
 
@@ -29,10 +31,19 @@
 
 ## 导读
 
-我面试的公司不多，但是问到的一些技术问题大多数都包含在这些题目中，推荐阅读顺序：
+推荐阅读顺序：
 
-- [HTML 篇](#1.1)
-- [CSS 篇](#1.2)
+* <a href="#1.1">HTML 篇</a>
+* <a href="#1.2">CSS 篇</a>
+* <a href="#1.3">Javascript 篇</a>
+* <a href="#1.8">函数执行结果（考察知识点掌握）</a>
+* <a href="#1.4">源码相关</a>
+* <a href="#1.5">网络相关</a>
+* <a href="#1.9">设计模式</a>
+* <a href="#1.6">算法相关</a>
+* <a href="#1.7">Nodejs 篇</a>
+* <a href="#1.10">未解答问题（无答案）</a>
+* <a href="#1.11">大厂面试题</a>
 
 ### 基础面试题
 
@@ -50,6 +61,7 @@
 
 - [介绍下 BFC 及其应用](https://github.com/a1029563229/InterviewQuestions/blob/master/css/1)
 - [怎么让一个 div 水平垂直居中](https://github.com/a1029563229/InterviewQuestions/blob/master/css/2)
+- [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/13)
 - [分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/a1029563229/InterviewQuestions/blob/master/css/3)
 - [简述 CSS 盒模型](https://github.com/a1029563229/InterviewQuestions/blob/master/css/4)
 - [简述 Rem 及其转换原理](https://github.com/a1029563229/InterviewQuestions/blob/master/css/5)
@@ -63,7 +75,6 @@
 
 <h3 id="#1.3">Javascript 篇</h2>
 
-- [如何实现函数的柯里化？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/1)
 - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/2)
 - [（滴滴、饿了么）写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/3)
 - [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/4)
@@ -71,12 +82,9 @@
 - [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/6)
 - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/7)
 - [setTimeout、Promise、Async/Await 的区别](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/8)
-- [（头条、微医）Async/Await 如何通过同步的方式实现异步](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/9)
+- [（头条、微医）Async/Await 如何通过同步的方式（形式）实现异步](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/9)
 - [简述一下 Generator 函数](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/10)
 - [（滴滴、挖财、微医、海康）JS 异步解决方案的发展历程以及优缺点。](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/11)
-- [（兑吧）情人节福利题，如何实现一个 new](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/12)
-- [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/13)
-- [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/14)
 - [简述浏览器缓存读取规则](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/15)
 - [为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/16)
 - [（京东）下面代码中 a 在什么情况下会打印 1？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/17)
@@ -91,9 +99,8 @@
 - [箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/26)
 - [redux 为什么要把 reducer 设计成纯函数](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/27)
 - [ES6 代码转成 ES5 代码的实现思路是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/28)
-- [介绍下 webpack 热更新原理，是如何做到在不刷新浏览器的前提下更新页面的](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/29)
 - [Vue 的父组件和子组件生命周期钩子执行顺序是什么](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/30)
-- [react-router 里的 <Link> 标签和 <a> 标签有什么区别](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/31)
+- [react-router 里的 Link 标签和 a 标签有什么区别](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/31)
 - [vue 在 v-for 时给每项元素绑定事件需要用事件代理吗？为什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/32)
 - [谈谈对 MVC、MVP、MVVM 模式的理解](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/33)
 - [简单说说 js 中有哪几种内存泄露的情况](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/34)
@@ -110,8 +117,6 @@
 - [Vue 组件间如何通信？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/45)
 - [Vue 中 computed 和 watch 的差异？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/46)
 - [简述一下 PWA](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/47)
-
-
 
 
 <h3 id="1.8">函数执行结果</h3>
@@ -158,6 +163,7 @@
 
 - [什么是设计模式？设计模式如何解决复杂问题？](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/1)
 - [什么是白箱复用和黑箱复用？](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/3)
+- [介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/14)
 - [简述面向对象的设计原则](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/2)
 - [简述你了解的设计模式及应用场景](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/4)
 
