@@ -4,19 +4,17 @@
 
 推荐阅读顺序：
 
-* <a href="#1.1">HTML 篇</a>
-* <a href="#1.2">CSS 篇</a>
-* <a href="#1.3">Javascript 篇</a>
-* <a href="#1.8">函数执行结果（考察知识点掌握）</a>
-* <a href="#1.4">源码相关</a>
-* <a href="#1.5">网络相关</a>
-* <a href="#1.9">设计模式</a>
-* <a href="#1.6">算法相关</a>
-* <a href="#1.7">Nodejs 篇</a>
-* <a href="#1.10">未解答问题（无答案）</a>
-* <a href="#1.11">大厂面试题</a>
-
-### 基础面试题
+* HTML 篇
+* CSS 篇
+* Javascript 篇
+* 函数执行结果（考察知识点掌握）
+* 源码相关
+* 网络相关
+* 设计模式
+* 算法相关
+* Nodejs 篇
+* 未解答问题（无答案）
+* 大厂面试题
 
 <h3 id="#1.1">HTML 篇</h2>
 
@@ -98,7 +96,7 @@
 - [webpack 中 loader 和 plugin 的区别是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/8)
 
 
-<h3 id="1.8">函数执行结果</h3>
+### 函数执行结果
 
 - [第一题（考察 This 指针）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/1)
 - [第二题（考察对象应用）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/2)
@@ -110,7 +108,7 @@
 - [第八题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/8)
 - [第九题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/9)
 
-<h3 id="1.4">源码相关</h3>
+### 源码相关
 
 - [如何实现函数的柯里化？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/1)
 - [手写 bind、call、apply](https://github.com/a1029563229/InterviewQuestions/blob/master/source/1)
@@ -123,7 +121,7 @@
 - [介绍下 webpack 热更新原理，是如何做到在不刷新浏览器的前提下更新页面的](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/29)
 - [简述一下 React 的源码实现](https://github.com/a1029563229/InterviewQuestions/blob/master/source/9)
 
-<h3 id="1.5">网络相关</h3>
+### 网络相关
 
 - [HTTP1.0 和 HTTP1.1 有什么区别？](https://github.com/a1029563229/InterviewQuestions/blob/master/network/1)
 - [（网易）简单讲解一下 http2 的多路复用](https://github.com/a1029563229/InterviewQuestions/blob/master/network/2)
@@ -137,7 +135,7 @@
 - [SSL 连接断开后如何恢复？](https://github.com/a1029563229/InterviewQuestions/blob/master/network/10)
 - [什么是 CDN 服务？](https://github.com/a1029563229/InterviewQuestions/blob/master/network/11)
 
-<h3 id="1.9">设计模式</h3>
+### 设计模式
 
 - [什么是设计模式？设计模式如何解决复杂问题？](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/1)
 - [什么是白箱复用和黑箱复用？](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/3)
@@ -145,7 +143,7 @@
 - [简述面向对象的设计原则](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/2)
 - [简述你了解的设计模式及应用场景](https://github.com/a1029563229/InterviewQuestions/blob/master/designPattern/4)
 
-<h3 id="1.6">算法相关</h3>
+### 算法相关
 
 - [使用迭代的方式实现 flatten 函数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/2)
 - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/3)
@@ -158,12 +156,14 @@
 - [（京东、快手）周一算法题之「两数之和」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/13)
 - [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/14)
 - [（阿里巴巴）如何实现数组的随机排序？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/1)
+- [将数字变成 0 的操作次数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/23)
+- [实现 Trie (前缀树)](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/24)
 
-<!-- ### 正则相关
+### 正则相关
 
-- [检测邮箱格式合法性](https://github.com/a1029563229/InterviewQuestions/blob/master/regexp/1) -->
+- [检测邮箱格式合法性](https://github.com/a1029563229/InterviewQuestions/blob/master/regexp/1)
 
-<h3 id="1.7">Nodejs 篇</h3>
+### Nodejs 篇
 
 - [介绍一下 Node 里的模块是什么?](https://github.com/a1029563229/InterviewQuestions/blob/master/node/1)
 - [请介绍一下 require 的模块加载机制](https://github.com/a1029563229/InterviewQuestions/blob/master/node/2)
@@ -186,18 +186,18 @@
 - [cookie 与 session 的区别? 服务端如何清除 cookie?](https://github.com/a1029563229/InterviewQuestions/blob/master/node/19)
 - [hosts 文件是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/node/20)
 
-<!-- ### 消息队列
+### 消息队列
 
-- [消息队列的应用场景有哪些？](https://github.com/a1029563229/InterviewQuestions/blob/master/msgQ/1) -->
+- [消息队列的应用场景有哪些？](https://github.com/a1029563229/InterviewQuestions/blob/master/msgQ/1)
 
-<h3 id="1.10">未解答问题</h3>
+### 未解答问题
 
 - [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/4)
 - [实现 React Hooks 中的 useState 和 useEffect](https://github.com/a1029563229/InterviewQuestions/blob/master/source/10)
 - [（阿里巴巴）快速排序](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/2)
 - [（阿里巴巴）反转链表](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/3)
 
-<h3 id="1.11">大厂面试题</h3>
+### 大厂面试题
 
 - [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/14)
 - [（携程）编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/5)
@@ -223,6 +223,4 @@
 - [（阿里巴巴）简述懒加载](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/7)
 - [（腾讯）webpack 中 loader 和 plugin 的区别是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/8)
 - [（阿里巴巴）谈谈对 MVC、MVP、MVVM 模式的理解](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/33)
-
-
 
