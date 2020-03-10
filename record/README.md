@@ -124,9 +124,9 @@
 - [第一题（考察 This 指针）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/1)
 - [第二题（考察对象应用）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/2)
 - [第三题（考察事件循环/异步）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/3)
-- [第四题（考察 React 的使用](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/4)
-- [第五题（考察作用域](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/5)
-- [第六题（考察作用域](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/6)
+- [第四题（考察 React 的使用）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/4)
+- [第五题（考察作用域）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/5)
+- [第六题（考察作用域）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/6)
 - [第七题（考察数组）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/7)
 - [第八题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/8)
 - [第九题（考察赋值表达式）](https://github.com/a1029563229/InterviewQuestions/blob/master/execute/9)
@@ -143,7 +143,6 @@
 - [简单聊聊 new Vue 以后发生的事情](https://github.com/a1029563229/InterviewQuestions/blob/master/source/8)
 - [介绍下 webpack 热更新原理，是如何做到在不刷新浏览器的前提下更新页面的](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/29)
 - [简述一下 React 的源码实现](https://github.com/a1029563229/InterviewQuestions/blob/master/source/9)
-- [实现 React Hooks 中的 useState 和 useEffect](https://github.com/a1029563229/InterviewQuestions/blob/master/source/10)
 
 <h3 id="1.5">网络相关</h3>
 

@@ -12,7 +12,19 @@ obj.push(1)
 obj.push(2)
 console.log(obj)
 ```
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
