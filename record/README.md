@@ -117,6 +117,14 @@
 - [Vue 组件间如何通信？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/45)
 - [Vue 中 computed 和 watch 的差异？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/46)
 - [简述一下 PWA](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/47)
+- [介绍下 CacheStorage](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/1)
+- [Vue 双向数据绑定原理](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/2)
+- [页面的可用性时间的计算](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/3)
+- [简述一下 WebAssembly](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/4)
+- [谈谈移动端点击](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/5)
+- [谈谈 Git-Rebase](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/6)
+- [简述懒加载](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/7)
+- [webpack 中 loader 和 plugin 的区别是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/8)
 
 
 <h3 id="1.8">函数执行结果</h3>
@@ -170,17 +178,15 @@
 
 - [使用迭代的方式实现 flatten 函数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/2)
 - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/3)
-- [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/4)
 - [（携程）编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/5)
 - [给定两个数组，写一个方法来计算它们的交集](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/6)
 - [数组编程题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/7)
 - [如何把一个字符串的大小写取反（大写变小写小写变大写），例如 ’AbC' 变成 'aBc' 。](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/8)
 - [实现一个字符串匹配算法，从长度为 n 的字符串 S 中，查找是否存在字符串 T，T 的长度是 m，若存在返回所在位置。](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/9)
 - [算法题「旋转数组」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/10)
-- [打印出 1 - 10000 之间的所有对称数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/11)
-- [周一算法题之「移动零」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/12)
 - [（京东、快手）周一算法题之「两数之和」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/13)
 - [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/14)
+- [（阿里巴巴）如何实现数组的随机排序？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/1)
 
 <!-- ### 正则相关
 
@@ -217,14 +223,13 @@
 
 - [请分别用深度优先思想和广度优先思想实现一个拷贝函数？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/4)
 - [实现 React Hooks 中的 useState 和 useEffect](https://github.com/a1029563229/InterviewQuestions/blob/master/source/10)
+- [（阿里巴巴）快速排序](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/2)
+- [（阿里巴巴）反转链表](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/3)
 
 <h3 id="1.11">大厂面试题</h3>
 
 - [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/14)
 - [（携程）编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/5)
-- [（阿里巴巴）如何实现数组的随机排序？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/1)
-- [（阿里巴巴）快速排序](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/2)
-- [（阿里巴巴）反转链表](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/3)
 - [（阿里巴巴）介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/3)
 - [（网易）简单讲解一下 http2 的多路复用](https://github.com/a1029563229/InterviewQuestions/blob/master/network/2)
 - [（挖财）什么是防抖和节流？有什么区别？如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/5)
@@ -234,16 +239,17 @@
 - [（京东）下面代码中 a 在什么情况下会打印 1？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/17)
 - [（百度）实现 (5).add(3).minus(2) 功能](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/23)
 - [（滴滴、饿了么）写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/3)
-- [（阿里巴巴）介绍下 CacheStorage](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/1)
+- [（阿里巴巴）简述执行上下文和执行栈](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/39)
 - [（阿里巴巴）Vue 组件间如何通信？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/45)
-- [（阿里巴巴）Vue 双向数据绑定原理](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/2)
 - [（阿里巴巴）简述前端性能优化](https://github.com/a1029563229/InterviewQuestions/blob/master/html/6)
+- [（阿里巴巴）如何实现数组的随机排序？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/1)
+- [（阿里巴巴）介绍下 CacheStorage](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/1)
+- [（阿里巴巴）Vue 双向数据绑定原理](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/2)
 - [（阿里巴巴）页面的可用性时间的计算](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/3)
 - [（阿里巴巴）简述一下 WebAssembly](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/4)
 - [（阿里巴巴）谈谈移动端点击](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/5)
 - [（阿里巴巴）谈谈 Git-Rebase](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/6)
-- [（阿里巴巴）谈谈对 MVC、MVP、MVVM 模式的理解](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/33)
-- [（阿里巴巴）简述执行上下文和执行栈](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/39)
 - [（阿里巴巴）简述懒加载](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/7)
 - [（腾讯）webpack 中 loader 和 plugin 的区别是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/javascript/8)
+- [（阿里巴巴）谈谈对 MVC、MVP、MVVM 模式的理解](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/33)
 
