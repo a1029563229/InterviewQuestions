@@ -4,8 +4,9 @@
 
 推荐阅读顺序：
 
-<a href="#1.1">HTML 篇</a>
-<a href="#1.1">CSS 篇</a>
+* <a href="#1.1">HTML 篇</a>
+* <a href="#1.2">CSS 篇</a>
+* <a href="#1.3">Javascript 篇</a>
 
 ### 基础面试题
 
