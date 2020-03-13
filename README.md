@@ -17,6 +17,9 @@
 - [周一算法题之「移动零」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/12)
 - [（京东、快手）周一算法题之「两数之和」](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/13)
 - [（bilibili）编程算法题](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/14)
+- [删除排序数组中的重复项](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/15)
+- [1+2+...+n](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/16)
+- [左旋转字符串](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/17)
 
 ### 网络相关
 
