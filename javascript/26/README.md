@@ -6,5 +6,5 @@
 2. 不可以使用 `arguments` 对象，该对象在函数体内不存在。如果要用，可以用 rest 参数代替；
 3. 不可以使用 `yield` 命令，因此箭头函数不能用作 `Generator` 函数；
 4. 不可以使用 `new` 命令，因为：
-  - 没有自己的 `this`，无法调用 `call、apply`；
-  - 没有 `prototype` 属性，而 `new` 命令在执行时需要将狗仔函数的 `prototype` 赋值给新的对象的 `__proto__`
+    - 没有自己的 `this`，无法调用 `call、apply`；
+    - 没有 `prototype` 属性，而 `new` 命令在执行时需要将钩子函数的 `prototype` 赋值给新的对象的 `__proto__`

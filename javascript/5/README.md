@@ -33,3 +33,5 @@ function throttle(fn, timing) {
   }
 }
 ```
+
+> Tips：我记这个很容易把两者弄混，总结了个口诀，就是 DTTV（Debounce Timer Throttle Variable - 防抖靠定时器控制，节流靠变量控制）。

@@ -24,3 +24,7 @@ LazyMan('Tony').eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk foo
 // 等待了10秒...
 // I am eating junk food
 ```
+
+解答：
+
+查看同目录下 `test.js`；

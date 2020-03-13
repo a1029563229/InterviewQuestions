@@ -6,3 +6,15 @@ if(a == 1 && a == 2 && a == 3){
  	console.log(1);
 }
 ```
+
+解答：
+
+```js
+var a = {
+  value: 0,
+
+  valueOf() {
+    return ++this.value;
+  }
+};
+```
