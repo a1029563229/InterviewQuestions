@@ -16,7 +16,7 @@
 * 未解答问题（无答案）
 * 大厂面试题
 
-<h3 id="#1.1">HTML 篇</h2>
+### HTML 篇
 
 - [页面导入样式时，使用 link 和 @import 有什么区别。](https://github.com/a1029563229/InterviewQuestions/blob/master/html/1)
 - [常见浏览器内核](https://github.com/a1029563229/InterviewQuestions/blob/master/html/2)
@@ -42,7 +42,7 @@
 - [用纯 CSS 创建一个三角形](https://github.com/a1029563229/InterviewQuestions/blob/master/css/11)
 - [min-width/max-width 和 min-height/max-height 属性间的覆盖规则？](https://github.com/a1029563229/InterviewQuestions/blob/master/css/12)
 
-<h3 id="#1.3">Javascript 篇</h2>
+### Javascript 篇
 
 - [Vue 的响应式原理中 Object.defineProperty 有什么缺陷？为什么在 Vue3.0 采用了 Proxy，抛弃了 Object.defineProperty？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/2)
 - [（滴滴、饿了么）写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/a1029563229/InterviewQuestions/blob/master/javascript/3)
@@ -158,6 +158,12 @@
 - [（阿里巴巴）如何实现数组的随机排序？](https://github.com/a1029563229/InterviewQuestions/blob/master/company/algorithmic/1)
 - [将数字变成 0 的操作次数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/23)
 - [实现 Trie (前缀树)](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/24)
+- [朋友圈](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/18)
+- [解压缩编码列表](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/19)
+- [整数的各位积和之差](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/20)
+- [猜数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/21)
+- [统计位数为偶数的数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/22)
+- [交换数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/25)
 
 ### 正则相关
 
