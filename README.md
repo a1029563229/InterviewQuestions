@@ -164,6 +164,11 @@
 - [猜数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/21)
 - [统计位数为偶数的数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/22)
 - [交换数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/25)
+- [删除链表中的节点](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/26)
+- [子集[sku]](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/27)
+- [螺旋矩阵 II](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/28)
+- [IP 地址无效化](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/29)
+- [二进制链表转整数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/30)
 
 ### 正则相关
 
