@@ -169,6 +169,12 @@
 - [螺旋矩阵 II](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/28)
 - [IP 地址无效化](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/29)
 - [二进制链表转整数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/30)
+- [反转链表](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/31)
+- [删去字符串中的元音](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/32)
+- [找出变位映射](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/33)
+- [TinyURL 的加密与解密](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/34)
+- [访问所有点的最小时间](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/35)
+- [无重复字符串的排列组合](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/36)
 
 ### 正则相关
 
