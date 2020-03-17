@@ -145,6 +145,7 @@
 
 ### 算法相关
 
+- [选择排序](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/37)
 - [使用迭代的方式实现 flatten 函数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/2)
 - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/3)
 - [（携程）编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/5)
@@ -175,6 +176,8 @@
 - [TinyURL 的加密与解密](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/34)
 - [访问所有点的最小时间](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/35)
 - [无重复字符串的排列组合](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/36)
+- [统计有序矩阵中的负数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/38)
+- [链表中倒数第k个节点](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/39)
 
 ### 正则相关
 
