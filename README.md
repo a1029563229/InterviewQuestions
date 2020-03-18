@@ -179,6 +179,11 @@
 - [统计有序矩阵中的负数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/38)
 - [链表中倒数第k个节点](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/39)
 - [单行键盘](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/40)
+- [二叉树的深度](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/41)
+- [打印从1到最大的n位数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/42)
+- [数组中数字出现的次数 II](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/43)
+- [单词频率](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/44)
+- [替换空格](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/45)
 
 ### 正则相关
 
