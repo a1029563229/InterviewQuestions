@@ -184,6 +184,8 @@
 - [数组中数字出现的次数 II](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/43)
 - [单词频率](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/44)
 - [替换空格](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/45)
+- [分割平衡字符串](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/46)
+- [删除中间节点](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/47)
 
 ### 正则相关
 
