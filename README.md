@@ -186,6 +186,10 @@
 - [替换空格](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/45)
 - [分割平衡字符串](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/46)
 - [删除中间节点](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/47)
+- [从尾到头打印链表](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/48)
+- [反转链表](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/49)
+- [6 和 9 组成的最大数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/50)
+- [最小元素各数位之和](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/51)
 
 ### 正则相关
 
