@@ -190,6 +190,7 @@
 - [反转链表](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/49)
 - [6 和 9 组成的最大数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/50)
 - [最小元素各数位之和](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/51)
+- [最小元素各数位之和](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/51)
 
 ### 正则相关
 
