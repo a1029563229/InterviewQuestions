@@ -190,7 +190,13 @@
 - [反转链表](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/49)
 - [6 和 9 组成的最大数字](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/50)
 - [最小元素各数位之和](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/51)
-- [最小元素各数位之和](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/51)
+- [合并二叉树](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/54)
+- [汉明距离](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/55)
+
+#### SQL 算法题
+
+- [查找重复的电子邮箱](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/52)
+- [大的国家](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/53)
 
 ### 正则相关
 
