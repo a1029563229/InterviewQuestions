@@ -192,6 +192,8 @@
 - [最小元素各数位之和](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/51)
 - [合并二叉树](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/54)
 - [汉明距离](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/55)
+- [唯一摩尔斯密码词](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/56)
+- [自除数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/57)
 
 #### SQL 算法题
 
