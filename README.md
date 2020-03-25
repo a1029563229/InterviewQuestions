@@ -194,6 +194,8 @@
 - [汉明距离](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/55)
 - [唯一摩尔斯密码词](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/56)
 - [自除数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/57)
+- [Nim 游戏](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/59)
+- [斐波那契数](https://github.com/a1029563229/InterviewQuestions/blob/master/algorithmic/60)
 
 #### SQL 算法题
 
