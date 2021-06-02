@@ -33,7 +33,7 @@ function* gen(x) {
 
 var g = gen(1);
 g.next() // { value: 3, done: false }
-g.next(2) // { value: 2, done: false }
+g.next(2) // { value: 2, done: true }
 ```
 
 `next` 是返回值的 `value` 属性，是 `Generator` 函数向外输出数据；`next` 方法还可以接受参数，向 `Generator` 函数体内输入数据。
